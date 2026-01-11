@@ -1,0 +1,5 @@
+{
+  "name": "Invest calculator",
+  "description": "A standalone, embeddable React widget for calculating investment growth with a modern dark blue and gold aesthetic.",
+  "requestFramePermissions": []
+}
